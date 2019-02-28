@@ -13,8 +13,5 @@ Esta interfaz debe de ser común para toda la familia de algoritmos.
 ### Estrategias
 Implemetan diferentes explicaciones de un algoritmo que usa el context. 
 
-## Funcionamiento del programa. 
-### Todos los archivos que se mencionarán a continuación se encuentran en la carpeta src/com/axity/strategy.
-###
 
 
