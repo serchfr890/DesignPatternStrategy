@@ -34,5 +34,6 @@ public class PaypalStrategy implements PaymentStratgy{
             System.out.println("Correct Access" + "\n" +
                     amount + " paid using Paypal.\n");
         }
+        System.out.println("Access Denied");
     }
 }

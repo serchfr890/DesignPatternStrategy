@@ -16,7 +16,7 @@ public class CreditCardStrategy implements PaymentStratgy{
 
     public boolean validateCreditDebitCard(){
         if(cardNumber.length() == 16 && cvv.length() == 3 && dateOfExpiry.length() == 5){
-            //Podria ser el caso de una consulta a base de datos
+            //Podría ser el caso de una consulta a base de datos
             return true;
         }
         return false;
